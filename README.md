@@ -48,7 +48,7 @@ cargo init xxx-project
 [package]
 name = "rust-cli"
 version = "0.1.0"
-authors = ["rogerjluo <rogerjluo@tencent.com>"]
+authors = ["rogerjluo"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -354,6 +354,6 @@ cargo run -- -m lw
 - 列出本周的todo list
 - 列出某一天的todo list
 
-(这里没有列出所有的代码, 如果你感兴趣, 请移步到: [git.oa](https://github.com/RogerZZZZZ/rust-todo-cli)) 如果觉得还不错, 帮忙点个star吧, 初学者举步维艰
+(这里没有列出所有的代码, 如果你感兴趣, 请移步到: [git](https://github.com/RogerZZZZZ/rust-todo-cli)) 如果觉得还不错, 帮忙点个star吧, 初学者举步维艰
 
 如果大家对代码有什么建议的话希望能告诉我, 这将继续鞭策我前进, 感谢~
